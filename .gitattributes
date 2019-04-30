@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+1.) Before running this project you must have to install drivers of builtin databse of netbeans.
+2.) Then include jar files.
+3.) create databse of record name
+4.) Gointo tables section create table by pressing right click.
+5.) add columns player 1 wins and player 2 wins both columns of integer type
